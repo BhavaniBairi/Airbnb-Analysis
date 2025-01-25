@@ -6,6 +6,7 @@ This project aims to analyze Airbnb data using MongoDB Atlas, perform data clean
 
 **Libraries/Modules needed for the project!**
 Plotly, Seaborn - (To plot and visualize the data)
+
 Pandas - (To Clean and maipulate the data)
 Pymongo - (To store and retrieve the data by connecting with MongoDB Atlas)
 Streamlit - (To Create Graphical user Interface)
