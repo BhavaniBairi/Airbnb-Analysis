@@ -5,10 +5,13 @@
 This project aims to analyze Airbnb data using MongoDB Atlas, perform data cleaning and preparation, develop interactive geospatial visualizations, and create dynamic plots to gain insights into pricing variations, availability patterns, and location-based trends.
 
 **Libraries/Modules needed for the project!**
+
 Plotly, Seaborn - (To plot and visualize the data)
 
 Pandas - (To Clean and maipulate the data)
+
 Pymongo - (To store and retrieve the data by connecting with MongoDB Atlas)
+
 Streamlit - (To Create Graphical user Interface)
 
 **Workflow :**
@@ -27,3 +30,5 @@ Use the cleaned data to analyze and visualize how prices vary across different l
 
 **Step 5 :**
 Utilize Tableau or Power BI to create a comprehensive dashboard that presents key insights from your analysis. Combine different visualizations, such as maps, charts, and tables, to provide a holistic view of the Airbnb dataset and its patterns.
+
+![Airbnb_Power Bi](Power_BI_Airbnb.jpg)
